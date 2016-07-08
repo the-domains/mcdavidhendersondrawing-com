@@ -1,0 +1,28 @@
+name: mcdavidhendersondrawing.com
+favicon: null
+layout_spectrum: 0.6393072954379022
+typography_spectrum: 0.7038930365815759
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2754316320642829
+  lightness: 0.03685179934836924
+  saturation: 0.4808349625673145
+  rhythmicContrast: 0.464477785397321
+purpose: []
